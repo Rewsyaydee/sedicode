@@ -1,4 +1,4 @@
-# ASCII Portfolio
+# ASCII Portfolio SediCode
 
 Terminal ASCII animation streamed over HTTP for `curl`.
 
