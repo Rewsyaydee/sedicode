@@ -1,0 +1,17 @@
+{
+  "name": "ascii-portfolio",
+  "version": "1.0.0",
+  "description": "Terminal ASCII animation streamed via curl",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ascii",
+    "terminal",
+    "curl",
+    "portfolio"
+  ],
+  "author": "Rewsyaydee",
+  "license": "ISC"
+}
